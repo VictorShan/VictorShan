@@ -25,7 +25,7 @@
 
  - <a href="https://victorshan.github.io/"><img alt="Website" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/github.svg"> Website</a>
  - <a href="https://www.linkedin.com/in/victorshanvs/"><img alt="LinkedIn" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> LinkedIn</a>
- - <a href="mailto:victorshanvs@gmail.com"><img alt="Email" width="16px" src="https://svgsilh.com/svg/33776.svg"> victorshanvs@gmail.com</a>
+ <!-- <a href="mailto:victorshanvs@gmail.com"><img alt="Email" width="16px" src="https://svgsilh.com/svg/33776.svg"> victorshanvs@gmail.com</a> -->
 
 
 <!--
