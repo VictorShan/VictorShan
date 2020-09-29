@@ -12,8 +12,8 @@
 
 - 💻 &nbsp; Python | Java | C++
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢 &nbsp; MySQL | MS SQL | NoSQL
-- 🔧 &nbsp; Git | Markdown
+- 🛢 &nbsp; MySQL | MS SQL (Azure) | NoSQL (Firebase)
+- 🔧 &nbsp; Git | Markdown | Shell
 <!-- 🖥 &nbsp; Illustrator| Photoshop | InDesign -->
 
 <br/>
