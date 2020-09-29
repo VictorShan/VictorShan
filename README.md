@@ -1,14 +1,32 @@
-# Hello! 👋
+<h2> Hello! I'm Victor.</h2>
+
+<h3> About Me </h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science at University of Washington.
+- 💼 &nbsp; Looking for a summer 2021 internship
+- 🌱 &nbsp; Learning more about Machine Learning and Development
+<!-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles. -->
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Java | C++
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
+- 🛢 &nbsp; MySQL | MS SQL | NoSQL
+- 🔧 &nbsp; Git | Markdown
+<!-- 🖥 &nbsp; Illustrator| Photoshop | InDesign -->
+
+<br/>
+
+[![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorShan&show_icons=true)](https://github.com/VictorShan)
+
+<h3> 🤝🏻 Connect with Me </h3>
 
 
-I am a second year Computer Science student at the University of Washington.
+ - <a href="https://victorshan.github.io/"><img alt="Website" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/github.svg"> Website</a>
+ - <a href="https://www.linkedin.com/in/victorshanvs/"><img alt="LinkedIn" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> LinkedIn</a>
+ - <a href="mailto:victorshanvs@gmail.com"><img alt="Email" width="16px" src="https://svgsilh.com/svg/33776.svg"> victorshanvs@gmail.com</a>
 
-In case you're a recuiter, I'm currently looking for a 2021 summer internship. Please contact me at <vshan@uw.edu>
-
-Below you will find a list of personal projects that I've worked on.
-
-
-*I cannot post my school projects publicly but my gitlab activity could be found here: [gitlab.cs.washington.edu/vshan](https://gitlab.cs.washington.edu/vshan)*
 
 <!--
 **VictorShan/VictorShan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
