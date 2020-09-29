@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello! 👋
+
+
+I am a second year Computer Science student at the University of Washington.
+
+In case you're a recuiter, I'm currently looking for a 2021 summer internship. Please contact me at <vshan@uw.edu>
+
+Below you will find a list of personal projects that I've worked on.
+
+
+*I cannot post my school projects publicly but my gitlab activity could be found here: [gitlab.cs.washington.edu/vshan](https://gitlab.cs.washington.edu/vshan)*
 
 <!--
 **VictorShan/VictorShan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
