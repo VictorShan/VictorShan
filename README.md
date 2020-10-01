@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at University of Washington.
 - 💼 &nbsp; Looking for a summer 2021 internship
-- 🌱 &nbsp; Learning more about Machine Learning and Development
+- 🌱 &nbsp; Learning more about Machine Learning and Software Development
 <!-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles. -->
 
 <h3>🛠 Tech Stack</h3>
