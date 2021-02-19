@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at University of Washington.
-- 💼 &nbsp; Looking for a summer 2021 internship
+- 💼 &nbsp; Interning at Amazon summer 2021
 - 🌱 &nbsp; Learning more about Machine Learning and Software Development
 <!-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles. -->
 
