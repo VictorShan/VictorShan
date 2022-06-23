@@ -3,7 +3,7 @@
 <h3> About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at University of Washington.
+- 🎓 &nbsp; Graduated with Bachelor's degree in Computer Science at University of Washington.
 - 💼 &nbsp; Interned at Amazon summer 2021
 - 🌱 &nbsp; Learning more about Machine Learning and Software Development
 <!-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles. -->
@@ -11,8 +11,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | C++
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢 &nbsp; MySQL | MS SQL (Azure) | NoSQL (Firebase)
+- 🌐 &nbsp; HTML | CSS | TypeScript | Bootstrap | Node.js | ReactJS
+- 🛢 &nbsp; MySQL | NoSQL
 - 🔧 &nbsp; Git | Markdown | Shell
 <!-- 🖥 &nbsp; Illustrator| Photoshop | InDesign -->
 
