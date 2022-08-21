@@ -11,7 +11,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | C++
-- 🌐 &nbsp; HTML | CSS | TypeScript | Bootstrap | Node.js | ReactJS
+- 🌐 &nbsp; HTML | CSS | TypeScript | TailwindCSS | NextJS (React)
 - 🛢 &nbsp; MySQL | NoSQL
 - 🔧 &nbsp; Git | Markdown | Shell
 <!-- 🖥 &nbsp; Illustrator| Photoshop | InDesign -->
